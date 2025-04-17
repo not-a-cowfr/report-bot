@@ -1,0 +1,4 @@
+/target
+.env
+clippy.json
+*.swp
