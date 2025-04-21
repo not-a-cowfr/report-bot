@@ -1,4 +1,12 @@
-to run:
+# to run:
+
+downlaod the prebuilt binary from the [releases](https://github.com/not-a-cowfr/report-bot/releases)
+
+set the enviroment variables needed in the [example](/.env.example)
+
+run the executable
+
+## or
 
 open terminal
 
